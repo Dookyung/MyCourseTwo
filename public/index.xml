@@ -37,7 +37,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.  Date Title Slides   Day1 Welcome to Data Science     Lab 00: Logistics    Day2 Lab 02: Logistics     </description>
+      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.  Date Title Slides   Day1 Welcome to Data Science     Lab 00: Logistics     Introduction     Basic R     Using github     Functional Programming    Day2 Data Structure &amp;amp; Tidy Data     Data wrangling with dplyr     Web Scraping     Shiny and Rmarkdown     Parallelization    Day3 Database &amp;amp; SQL     Bigish Data     SparklyR     Real World Data Science     </description>
     </item>
     
     <item>
