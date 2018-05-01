@@ -18,7 +18,7 @@ hasCJKLanguage = true
 [params]
   # Shown in the home page
   subtitle = "Dookyung Kim"
-  brand = "DK Analytics"
+  brand = "DK Cafe"
 ##  googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
@@ -35,7 +35,7 @@ hasCJKLanguage = true
 [menu]
   # Shown in the side menu.
   [[menu.main]]
-    name = "Home"
+    name = "Blog"
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
@@ -47,7 +47,7 @@ hasCJKLanguage = true
     identifier = "schedule"
     url = "/schedule/"
   [[menu.main]]
-    name = "Syllabus"
+    name = "R4DS Course"
     pre = "<i class='fa fa-calendar-check'></i>"
     weight = 3
     identifier = "syllabus"
@@ -64,11 +64,11 @@ hasCJKLanguage = true
     weight = 5
     identifier = "about"
     url = "https://dkkim.netlify.com/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 6
-    url = "/contact/"
+##  [[menu.main]]
+##    name = "Contact"
+##    pre = "<i class='fa fa-phone fa-fw'></i>"
+##    weight = 6
+##    url = "/contact/"
 
 [social]
   # Link your social networking accouns to the side menu
