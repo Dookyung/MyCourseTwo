@@ -63,7 +63,7 @@ hasCJKLanguage = true
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 5
     identifier = "about"
-    url = "dkkim.netlify.com"
+    url = "https://dkkim.netlify.com/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
