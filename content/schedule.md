@@ -116,7 +116,7 @@ description = "Big Data Analytics with R"
 
 ### Topics
 
-- 소비자물가지수 정리 - tidy data
+- 소비자물가지수 정리 - tidy data, fill() 활용
 - 아파트실거래가자료
 - 네이버 부동산 정보 크롤링
 - 은행가계대출정보 정리(비정형포맷 표준화)
